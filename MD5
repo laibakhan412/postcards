@@ -1,6 +1,6 @@
-728f3efadd8bfd91358dee886aa27e7b *DESCRIPTION
+745ab54c1a530bfa191987103989d308 *DESCRIPTION
 4ae915520410847a37d34995da951b23 *NAMESPACE
-882e049af26ea05c7a2d093034ac7097 *NEWS.md
+1c79f15563254bfb4afba0e5b9c33fb7 *NEWS.md
 3c6c8a0c899f142f1aafe4cfd75a31bd *R/create.R
 09c6fdb4b5735830e94f6fd2b0313c66 *R/postcards.R
 26dc6cd3331197bd066a31f3a6e695ae *README.md
@@ -12,7 +12,7 @@ efe88153ce8e342240a5de20d427b5ba *inst/img/xiang.jpg
 fb38dbd39752c76069b405bf2c107b1e *inst/pandoc_templates/jolla-blue.html
 95be7d5f867168539f759ae3d88afe13 *inst/pandoc_templates/jolla.html
 86e8059584680ebf3277a1f8d7bd3b66 *inst/pandoc_templates/onofre.html
-1518c4f6bb16fa31861f1a6ead508fe6 *inst/pandoc_templates/solana.html
+cc08d7f29a363cb2f138e9cb8f7757d4 *inst/pandoc_templates/solana.html
 dbd2aebf2efe1cda839a699a143e08fc *inst/pandoc_templates/trestles.html
 6984ccc2972f6e944b30de9f026f82a9 *inst/rmarkdown/templates/jolla-blue/skeleton/skeleton.Rmd
 63232a6591b8e86b400afa96029dc603 *inst/rmarkdown/templates/jolla-blue/template.yaml
